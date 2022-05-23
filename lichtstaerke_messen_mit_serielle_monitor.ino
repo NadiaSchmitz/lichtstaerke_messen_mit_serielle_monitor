@@ -17,5 +17,5 @@ void loop() {
   } else {
     digitalWrite(led_blue, LOW);
   }
-  delay(1000);
+  delay(2000);
 }
